@@ -6,18 +6,16 @@ This repository contains an analysis of Gross Domestic Product (GDP) and life ex
 
 * Exploratory data analysis (EDA) to understand the distribution and patterns of GDP and life expectancy.
 * Visualization of trends and relationships between GDP and life expectancy.
-* Statistical analysis.
 
 ## Blog
 
 https://medium.com/@mangarasiagian0/unveiling-the-economic-pulse-exploring-global-gdp-trends-64aaff47ae80
 
+## Conclusion
+
+In the life_expectancy_gdp.ipynb, you'll find conclusions drawn from the analysis.
+
 ## File Description
   
-### life_expectancy_gdp.ipynb:
-
-This notebook contains code for analysis.
-
-### all_data.csv:
-
-This csv file contains data for analysis.
+* life_expectancy_gdp.ipynb: This notebook contains the analysis.
+* all_data.csv: This csv file contains data for analysis.
