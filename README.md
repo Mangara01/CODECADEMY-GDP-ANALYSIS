@@ -1,4 +1,4 @@
-# GDP - Life Expectancy Analysis
+# GDP & Life Expectancy Analysis
 
 This repository contains an analysis of Gross Domestic Product (GDP) and life expectancy data for six different countries. The project aims to explore the relationship between a country's economic prosperity (GDP) and the life expectancy of its residents. By analyzing this data, we can gain insights into the quality of life, healthcare, and economic conditions in each of these countries.
 
@@ -17,5 +17,5 @@ In the life_expectancy_gdp.ipynb, you'll find conclusions drawn from the analysi
 
 ## File Description
   
-* life_expectancy_gdp.ipynb: This notebook contains the analysis.
-* all_data.csv: This csv file contains data for analysis.
+* **life_expectancy_gdp.ipynb:** This notebook contains the analysis.
+* **all_data.csv:** This csv file contains data for analysis.
